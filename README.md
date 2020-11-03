@@ -1,19 +1,12 @@
-# images-upload
+# 图片上传组件
 
-## Project setup
-```
-npm install
-```
+- 图片上传组件是一个几乎所有应用程序都需要的组件
+- 它能够实现的功能：处理图片并验证其类型以及拖拽到指定区域显示上传前预览
+- 基本详细介绍到在源码注释中
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 其次
+ 我封装的仿Element ui 的一些基本组件  也在该项目中展示了
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
